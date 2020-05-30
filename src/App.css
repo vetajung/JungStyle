@@ -13,6 +13,15 @@
   }
 }
 
+export const ShopContainer = styled.div`
+  width: 1000px;
+  height: 3000px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+`;
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
